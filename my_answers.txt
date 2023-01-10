@@ -1,3 +1,8 @@
 Hi, this is an exercise
 
+
+
 Hi, I made some changes via Notepad
+
+
+I changed something via Github
